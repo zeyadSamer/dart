@@ -1,5 +1,15 @@
 class HelloWorld {
   String hello() {
-    return "Goodbye, Mars!";
+    return "Hello World!";
   }
+}
+
+
+void main(){
+  HelloWorld text= new HelloWorld();
+  
+  
+
+  print(text.hello())
+
 }
