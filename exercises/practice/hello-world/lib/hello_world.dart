@@ -3,3 +3,9 @@ class HelloWorld {
     return "Goodbye, Mars!";
   }
 }
+
+
+void main(){
+print(HelloWorld.hello());
+
+}
